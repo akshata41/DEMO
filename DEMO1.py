@@ -1,0 +1,1 @@
+print("Akshata will get good job in hers 3rd year")
